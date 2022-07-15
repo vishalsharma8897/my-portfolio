@@ -1,0 +1,44 @@
+.contactform {
+    font-family: 'Quicksand', sans-serif;
+    padding: 35px 34px;
+
+}
+
+.contactform h2 {
+    font-family: 'Mulish', sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+.form-label {
+    display: block;
+    margin-bottom:4px;
+
+}
+
+.form-control {
+    display: block;
+    width: 20vw;
+    border-radius: 5px;
+    
+}
+
+.mb-3 {
+    margin: 20px 0;
+}
+
+.form-text {
+    margin-bottom: 8px;
+}
+
+form button {
+    padding: 5px;
+    background-color: rgb(205 169 169 / 99%);
+    color: white;
+    border-radius: 6px;
+}
+
+form button:hover{
+    background-color: white;
+    color:blue;
+}
